@@ -2,7 +2,7 @@ Triple Down on Robustness: Understanding the Impact of Adversarial Triplet Compo
 
 ## Description
 
-This paper contains the anonymized code for the submission of "R&R: A Retrospective and New Reflections on the Impact of Adversarial Triplet Compositions on Adversarial Robustness" to ACSAC '24.
+This paper contains the code for the paper Triple Down on Robustness: Understanding the Impact of Adversarial Triplet Compositions on Adversarial Robustness, under review at MDPI MAKE.
 
 Included in this repository is:
 
