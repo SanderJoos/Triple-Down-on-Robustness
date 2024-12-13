@@ -1,4 +1,4 @@
-# ACSAC: R&R: A Retrospective and New Reflections on the Impact of Adversarial Triplet Compositions on Adversarial Robustness
+Triple Down on Robustness: Understanding the Impact of Adversarial Triplet Compositions on Adversarial Robustness
 
 ## Description
 
